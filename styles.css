@@ -2,35 +2,36 @@ body {
     color: rgb(0, 0, 0);
     background-image: url(https://preview.redd.it/iblyppg13uk71.png?auto=webp&s=469e26dc0b6887089455b7ed542792a6eb83a9e6);
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Rokkitt", serif;
     margin-bottom: 100px;
 }
 
 header {
+    font-family: "Handjet", sans-serif;
     border-bottom: solid 2px rgb(255, 255, 255);
     padding: 20px;
-    font-size: 32px;
+    font-size: 50px;
     color: rgb(255, 0, 0)
 }
 
 .chamada {
     background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/adb1da70-ce56-4d84-b9fc-606966c29c27/da84zbc-e8a92bd4-30c6-4ba3-8861-77002ab9dfcb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkYjFkYTcwLWNlNTYtNGQ4NC1iOWZjLTYwNjk2NmMyOWMyN1wvZGE4NHpiYy1lOGE5MmJkNC0zMGM2LTRiYTMtODg2MS03NzAwMmFiOWRmY2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WUAONYE9X1O9pSzHVj5gSBRqiLfDeN8viF4wYAwkARo);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 75px;
+    padding-top: 0px;
     display: flex;
     justify-content: center;
 }
 
 .chamada-texto {
-    margin-right: 20%;
+    margin-right: 5%;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 60px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 35px;
 }
 
 .categoria-videos {
@@ -46,7 +47,7 @@ p {
 }
 
 .categoria-videos img {
-    opacity: 0.5;
+    opacity: 0.7;
     height: 200px;
 }
 
